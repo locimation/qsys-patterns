@@ -1,3 +1,7 @@
+<style>
+  h2 {padding-top: 30px}
+</style>
+
 # Q-SYS Lua Design Patterns
 
 This is a collection of *[design patterns](https://en.wikipedia.org/wiki/Software_design_pattern)* (and some *[anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern)*) for writing Lua code in Q-SYS.
