@@ -8,4 +8,4 @@ Contributions are welcome via pull request!
 
 <br>
 
-<img src="cc-zero.svg">
+<img src="assets/img/cc-zero.svg">
